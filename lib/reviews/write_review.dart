@@ -72,7 +72,7 @@ class WriteReviewPage extends StatelessWidget {
                   ),
                 ),
               ),
-              SizedBox(height: defualtPadding),
+              const SizedBox(height: defualtPadding),
               Text(
                 "Add Photo",
                 style: Theme.of(context)
